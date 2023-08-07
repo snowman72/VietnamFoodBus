@@ -1,17 +1,17 @@
 {
   "images" : [
     {
-      "filename" : "khau-sli-cake-2.jpeg",
+      "filename" : "khau-sli-cake-1.jpeg",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "khau-sli-cake-2@2x.jpeg",
+      "filename" : "khau-sli-cake-1@2x.jpeg",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "khau-sli-cake-2@3x.jpeg",
+      "filename" : "khau-sli-cake-1@3x.jpeg",
       "idiom" : "universal",
       "scale" : "3x"
     }

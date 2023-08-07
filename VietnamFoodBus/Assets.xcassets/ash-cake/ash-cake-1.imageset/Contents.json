@@ -1,17 +1,17 @@
 {
   "images" : [
     {
-      "filename" : "ash-cake.jpeg",
+      "filename" : "ash-cake-1.jpeg",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "ash-cake@2x.jpeg",
+      "filename" : "ash-cake-1@2x.jpeg",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "ash-cake@3x.jpeg",
+      "filename" : "ash-cake-1@3x.jpeg",
       "idiom" : "universal",
       "scale" : "3x"
     }

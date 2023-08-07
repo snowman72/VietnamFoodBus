@@ -9,15 +9,18 @@ import SwiftUI
 import MapKit
 
 struct MapView: View {
-    var coordinate: CLLocationCoordinate2D
+    var cake: Cake
     
     @State private var region = MKCoordinateRegion()
         
-        var body: some View {
-            Map(coordinateRegion: $region)
-                .onAppear {
-                    setRegion(coordinate)
-                }
+    var body: some View {
+
+        Map(coordinateRegion: $region, annotationItems: cakes, annotationContent: { cake in
+            MapMarker(coordinate: cake.locationCoordinate, tint: .red)
+        })
+            .onAppear {
+                setRegion(cake.locationCoordinate)
+            }
         }
     
     private func setRegion(_ coordinate: CLLocationCoordinate2D) {
@@ -27,6 +30,6 @@ struct MapView: View {
 
 struct MapView_Previews: PreviewProvider {
     static var previews: some View {
-        MapView(coordinate: CLLocationCoordinate2D(latitude: 22.79186568765301, longitude: 105.45867764017002))
+        MapView(cake: cakes[0])
     }
 }

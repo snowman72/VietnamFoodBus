@@ -13,26 +13,33 @@ struct CakeCard: View {
     
     var body: some View {
         ScrollView {
+            MapView(cake: cake)
+                .edgesIgnoringSafeArea(.top)
+                .frame(height: 250)
+                .border(.brown, width: 1)
             
-                MapView(coordinate: cake.locationCoordinate)
-                    .edgesIgnoringSafeArea(.top)
-                    .frame(height: 250)
-                CircleImage(image: cake.image)
-                    .offset(y: -100)
-                    .padding(.bottom, -100)
+                CircleImage(cake: cake)
+                        .offset(y: -100)
+                        .padding(.bottom, -100)
                 
                 VStack(alignment: .leading) {
                     HStack {
                         VStack(alignment: .leading) {
                             Text(cake.name)
-                                .font(.title)
-                            .fontWeight(.bold)
+                                .font(.custom("Pacifico", size: 30))
                             Text(cake.region)
-                                .font(.subheadline)
                                 .foregroundColor(.secondary)
                         }
+                        .font(.subheadline)
+                        
                         Spacer()
-                        Image(systemName: "star.fill")
+                        
+                        if cake.isFavorite {
+                            Image(systemName: "star.fill")
+                                .foregroundColor(.yellow)
+                        } else {
+                            Image(systemName: "star.fill")
+                        }
                     }
                     
                     Divider().padding(.bottom)
@@ -40,19 +47,16 @@ struct CakeCard: View {
                     Text("Images")
                         .font(.title2)
                         .fontWeight(.bold)
-                    cake.image
-                        .padding(.bottom, 20)
+                    ImageRow(cake: cake)
+                        .padding(.bottom, 30)
+                        
                     Text("Description")
                         .font(.title2)
                         .fontWeight(.bold)
                     Text(cake.description)
-                    
-
                 }
                 .padding()
-            
-            
-        }
+            }
         .navigationTitle(cake.name)
         .navigationBarTitleDisplayMode(.inline)
     }

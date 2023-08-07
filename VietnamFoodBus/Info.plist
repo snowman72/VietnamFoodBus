@@ -4,19 +4,8 @@
 <dict>
 	<key>UIAppFonts</key>
 	<array>
-		<string>Borel-Regular.ttf</string>
-		<string>DancingScript-VariableFont_wght.ttf</string>
 		<string>Lobster-Regular.ttf</string>
-		<string>OpenSans-VariableFont_wdth,wght.ttf</string>
-		<string>Itim-Regular.ttf</string>
-		<string>BerkshireSwash-Regular.ttf</string>
-		<string>Itim-Regular.ttf</string>
 		<string>Pacifico-Regular.ttf</string>
-		<string>Satisfy-Regular.ttf</string>
-		<string>Sofia-Regular.ttf</string>
-		<string>FrederickatheGreat-Regular.ttf</string>
-		<string>OleoScriptSwashCaps-Bold.ttf</string>
-		<string>CherrySwash-Bold.ttf</string>
 	</array>
 </dict>
 </plist>

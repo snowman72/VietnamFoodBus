@@ -21,18 +21,9 @@
 		BC9A57902A7E41190015D91E /* cakes.json in Resources */ = {isa = PBXBuildFile; fileRef = BC9A578F2A7E41190015D91E /* cakes.json */; };
 		BC9A57922A7E8EA60015D91E /* GreetingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC9A57912A7E8EA60015D91E /* GreetingView.swift */; };
 		BC9A57962A7E9FC60015D91E /* WelcomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC9A57952A7E9FC60015D91E /* WelcomeView.swift */; };
-		BC9A57992A7EA50A0015D91E /* Borel-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BC9A57982A7EA50A0015D91E /* Borel-Regular.ttf */; };
-		BC9A579C2A7EA8670015D91E /* DancingScript-VariableFont_wght.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BC9A579B2A7EA8670015D91E /* DancingScript-VariableFont_wght.ttf */; };
 		BC9A579E2A7EAC500015D91E /* Lobster-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BC9A579D2A7EAC4F0015D91E /* Lobster-Regular.ttf */; };
-		BC9A57A02A7EB31B0015D91E /* OpenSans-VariableFont_wdth,wght.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BC9A579F2A7EB31B0015D91E /* OpenSans-VariableFont_wdth,wght.ttf */; };
-		BC9A57A22A7EB4910015D91E /* Itim-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BC9A57A12A7EB4910015D91E /* Itim-Regular.ttf */; };
-		BC9A57A42A7EB7910015D91E /* BerkshireSwash-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BC9A57A32A7EB7910015D91E /* BerkshireSwash-Regular.ttf */; };
 		BC9A57A82A7EB79E0015D91E /* Pacifico-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BC9A57A52A7EB79E0015D91E /* Pacifico-Regular.ttf */; };
-		BC9A57A92A7EB79E0015D91E /* Satisfy-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BC9A57A62A7EB79E0015D91E /* Satisfy-Regular.ttf */; };
-		BC9A57AA2A7EB79E0015D91E /* Sofia-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BC9A57A72A7EB79E0015D91E /* Sofia-Regular.ttf */; };
-		BC9A57AC2A7EB9E80015D91E /* FrederickatheGreat-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BC9A57AB2A7EB9E70015D91E /* FrederickatheGreat-Regular.ttf */; };
-		BC9A57AE2A7EBDF80015D91E /* OleoScriptSwashCaps-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BC9A57AD2A7EBDF80015D91E /* OleoScriptSwashCaps-Bold.ttf */; };
-		BC9A57B02A7EBEA80015D91E /* CherrySwash-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BC9A57AF2A7EBEA80015D91E /* CherrySwash-Bold.ttf */; };
+		BCAA7D632A7F72E200EA2D63 /* ImageRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = BCAA7D622A7F72E200EA2D63 /* ImageRow.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -51,19 +42,10 @@
 		BC9A578F2A7E41190015D91E /* cakes.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = cakes.json; sourceTree = "<group>"; };
 		BC9A57912A7E8EA60015D91E /* GreetingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GreetingView.swift; sourceTree = "<group>"; };
 		BC9A57952A7E9FC60015D91E /* WelcomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomeView.swift; sourceTree = "<group>"; };
-		BC9A57982A7EA50A0015D91E /* Borel-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Borel-Regular.ttf"; sourceTree = "<group>"; };
-		BC9A579A2A7EA55B0015D91E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
-		BC9A579B2A7EA8670015D91E /* DancingScript-VariableFont_wght.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "DancingScript-VariableFont_wght.ttf"; sourceTree = "<group>"; };
+		BC9A579A2A7EA55B0015D91E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BC9A579D2A7EAC4F0015D91E /* Lobster-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lobster-Regular.ttf"; sourceTree = "<group>"; };
-		BC9A579F2A7EB31B0015D91E /* OpenSans-VariableFont_wdth,wght.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-VariableFont_wdth,wght.ttf"; sourceTree = "<group>"; };
-		BC9A57A12A7EB4910015D91E /* Itim-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Itim-Regular.ttf"; sourceTree = "<group>"; };
-		BC9A57A32A7EB7910015D91E /* BerkshireSwash-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "BerkshireSwash-Regular.ttf"; sourceTree = "<group>"; };
 		BC9A57A52A7EB79E0015D91E /* Pacifico-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Pacifico-Regular.ttf"; sourceTree = "<group>"; };
-		BC9A57A62A7EB79E0015D91E /* Satisfy-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Satisfy-Regular.ttf"; sourceTree = "<group>"; };
-		BC9A57A72A7EB79E0015D91E /* Sofia-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Sofia-Regular.ttf"; sourceTree = "<group>"; };
-		BC9A57AB2A7EB9E70015D91E /* FrederickatheGreat-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FrederickatheGreat-Regular.ttf"; sourceTree = "<group>"; };
-		BC9A57AD2A7EBDF80015D91E /* OleoScriptSwashCaps-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OleoScriptSwashCaps-Bold.ttf"; sourceTree = "<group>"; };
-		BC9A57AF2A7EBEA80015D91E /* CherrySwash-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CherrySwash-Bold.ttf"; sourceTree = "<group>"; };
+		BCAA7D622A7F72E200EA2D63 /* ImageRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageRow.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,12 +78,11 @@
 		BC1861272A7B4A21000E81C4 /* VietnamFoodBus */ = {
 			isa = PBXGroup;
 			children = (
-				BC9A579A2A7EA55B0015D91E /* Info.plist */,
-				BC9A57972A7EA4C20015D91E /* CustomFonts */,
+				BC1861282A7B4A21000E81C4 /* VietnamFoodBusApp.swift */,
 				BC1861372A7B862A000E81C4 /* Model */,
 				BC1861362A7B8622000E81C4 /* Views */,
-				BC1861282A7B4A21000E81C4 /* VietnamFoodBusApp.swift */,
-				BC18612A2A7B4A21000E81C4 /* ContentView.swift */,
+				BC9A57972A7EA4C20015D91E /* CustomFonts */,
+				BC9A579A2A7EA55B0015D91E /* Info.plist */,
 				BC18612C2A7B4A21000E81C4 /* Assets.xcassets */,
 				BC18612E2A7B4A21000E81C4 /* Preview Content */,
 			);
@@ -119,13 +100,13 @@
 		BC1861362A7B8622000E81C4 /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				BC18612A2A7B4A21000E81C4 /* ContentView.swift */,
+				BCAA7D5E2A7F500000EA2D63 /* Welcome */,
+				BCAA7D5F2A7F501100EA2D63 /* Helper */,
+				BCAA7D642A800BA500EA2D63 /* Cakes */,
 				BC1861382A7B863D000E81C4 /* CakeRow.swift */,
 				BC18613A2A7B8645000E81C4 /* CakeList.swift */,
 				BC18613D2A7B865F000E81C4 /* CakeCard.swift */,
-				BC1861432A7D4A6F000E81C4 /* CircleImage.swift */,
-				BC1861452A7D53AC000E81C4 /* MapView.swift */,
-				BC9A57912A7E8EA60015D91E /* GreetingView.swift */,
-				BC9A57952A7E9FC60015D91E /* WelcomeView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -143,20 +124,36 @@
 		BC9A57972A7EA4C20015D91E /* CustomFonts */ = {
 			isa = PBXGroup;
 			children = (
-				BC9A579F2A7EB31B0015D91E /* OpenSans-VariableFont_wdth,wght.ttf */,
-				BC9A57982A7EA50A0015D91E /* Borel-Regular.ttf */,
-				BC9A579B2A7EA8670015D91E /* DancingScript-VariableFont_wght.ttf */,
 				BC9A579D2A7EAC4F0015D91E /* Lobster-Regular.ttf */,
-				BC9A57A32A7EB7910015D91E /* BerkshireSwash-Regular.ttf */,
-				BC9A57A12A7EB4910015D91E /* Itim-Regular.ttf */,
 				BC9A57A52A7EB79E0015D91E /* Pacifico-Regular.ttf */,
-				BC9A57A62A7EB79E0015D91E /* Satisfy-Regular.ttf */,
-				BC9A57A72A7EB79E0015D91E /* Sofia-Regular.ttf */,
-				BC9A57AB2A7EB9E70015D91E /* FrederickatheGreat-Regular.ttf */,
-				BC9A57AD2A7EBDF80015D91E /* OleoScriptSwashCaps-Bold.ttf */,
-				BC9A57AF2A7EBEA80015D91E /* CherrySwash-Bold.ttf */,
 			);
 			path = CustomFonts;
+			sourceTree = "<group>";
+		};
+		BCAA7D5E2A7F500000EA2D63 /* Welcome */ = {
+			isa = PBXGroup;
+			children = (
+				BC9A57912A7E8EA60015D91E /* GreetingView.swift */,
+				BC9A57952A7E9FC60015D91E /* WelcomeView.swift */,
+			);
+			path = Welcome;
+			sourceTree = "<group>";
+		};
+		BCAA7D5F2A7F501100EA2D63 /* Helper */ = {
+			isa = PBXGroup;
+			children = (
+				BC1861432A7D4A6F000E81C4 /* CircleImage.swift */,
+				BC1861452A7D53AC000E81C4 /* MapView.swift */,
+				BCAA7D622A7F72E200EA2D63 /* ImageRow.swift */,
+			);
+			path = Helper;
+			sourceTree = "<group>";
+		};
+		BCAA7D642A800BA500EA2D63 /* Cakes */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Cakes;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -217,20 +214,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BC9A57992A7EA50A0015D91E /* Borel-Regular.ttf in Resources */,
-				BC9A57B02A7EBEA80015D91E /* CherrySwash-Bold.ttf in Resources */,
 				BC9A579E2A7EAC500015D91E /* Lobster-Regular.ttf in Resources */,
 				BC1861302A7B4A21000E81C4 /* Preview Assets.xcassets in Resources */,
-				BC9A57AC2A7EB9E80015D91E /* FrederickatheGreat-Regular.ttf in Resources */,
-				BC9A57A02A7EB31B0015D91E /* OpenSans-VariableFont_wdth,wght.ttf in Resources */,
 				BC18612D2A7B4A21000E81C4 /* Assets.xcassets in Resources */,
-				BC9A579C2A7EA8670015D91E /* DancingScript-VariableFont_wght.ttf in Resources */,
-				BC9A57A42A7EB7910015D91E /* BerkshireSwash-Regular.ttf in Resources */,
-				BC9A57A92A7EB79E0015D91E /* Satisfy-Regular.ttf in Resources */,
-				BC9A57AE2A7EBDF80015D91E /* OleoScriptSwashCaps-Bold.ttf in Resources */,
-				BC9A57A22A7EB4910015D91E /* Itim-Regular.ttf in Resources */,
 				BC9A57902A7E41190015D91E /* cakes.json in Resources */,
-				BC9A57AA2A7EB79E0015D91E /* Sofia-Regular.ttf in Resources */,
 				BC9A57A82A7EB79E0015D91E /* Pacifico-Regular.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -249,6 +236,7 @@
 				BC1861392A7B863D000E81C4 /* CakeRow.swift in Sources */,
 				BC9A57922A7E8EA60015D91E /* GreetingView.swift in Sources */,
 				BC9A57962A7E9FC60015D91E /* WelcomeView.swift in Sources */,
+				BCAA7D632A7F72E200EA2D63 /* ImageRow.swift in Sources */,
 				BC18613E2A7B865F000E81C4 /* CakeCard.swift in Sources */,
 				BC1861402A7D3FF0000E81C4 /* ModelData.swift in Sources */,
 				BC1861462A7D53AC000E81C4 /* MapView.swift in Sources */,

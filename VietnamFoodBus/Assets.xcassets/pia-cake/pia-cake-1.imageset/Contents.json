@@ -1,17 +1,17 @@
 {
   "images" : [
     {
-      "filename" : "pia-cake.jpeg",
+      "filename" : "pia-cake-1.jpeg",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "pia-cake@2x.jpeg",
+      "filename" : "pia-cake-1@2x.jpeg",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "pia-cake@3x.jpeg",
+      "filename" : "pia-cake-1@3x.jpeg",
       "idiom" : "universal",
       "scale" : "3x"
     }

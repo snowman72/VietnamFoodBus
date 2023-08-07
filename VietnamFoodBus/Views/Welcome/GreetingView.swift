@@ -73,7 +73,7 @@ struct GreetingView: View {
                         .foregroundColor(.white)
                 }
                 .alert(isPresented: $showingAlert) {
-                    Alert(title: Text("About me")
+                    Alert(title: Text("About Me")
                         , message: Text("Vu Minh Ha\ns3978681\nBachelor of IT"))
                 }
                 .offset(x: 130, y: -10)

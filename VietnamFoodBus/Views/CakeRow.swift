@@ -12,25 +12,30 @@ struct CakeRow: View {
     
     var body: some View {
         HStack {
-            cake.image
-                .resizable()
-                .scaledToFit()
-            .frame(width: 50, height: 50)
+            Image(cake.imageNames[0])
+                    .resizable()
+                    .aspectRatio(contentMode: .fill)
+                    .frame(width: 50, height: 50)
+                    .clipped()
+                
+                VStack(alignment: .leading) {
+                    Text(cake.name)
+                        .font(.title3)
+                    Text(cake.region)
+                        .font(.subheadline)
+                }
+                Spacer()
             
-            VStack(alignment: .leading) {
-                Text(cake.name)
-                    .font(.title3)
-                Text(cake.region)
-                    .font(.subheadline)
-            }
-            Spacer()
-            Image(systemName: "star.fill")
+                if cake.isFavorite {
+                    Image(systemName: "star.fill")
+                        .foregroundColor(.yellow)
+                }
         }
     }
 }
 
 struct CakeRow_Previews: PreviewProvider {
     static var previews: some View {
-        CakeRow(cake: cakes[0])
+        CakeRow(cake: cakes[9])
     }
 }

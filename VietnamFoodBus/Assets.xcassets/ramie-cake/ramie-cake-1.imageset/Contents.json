@@ -1,17 +1,17 @@
 {
   "images" : [
     {
-      "filename" : "ramie-cake.jpeg",
+      "filename" : "ramie-cake-1.jpeg",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "ramie-cake@2x.jpeg",
+      "filename" : "ramie-cake-1@2x.jpeg",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "ramie-cake@3x.jpeg",
+      "filename" : "ramie-cake-1@3x.jpeg",
       "idiom" : "universal",
       "scale" : "3x"
     }

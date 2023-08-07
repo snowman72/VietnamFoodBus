@@ -1,17 +1,17 @@
 {
   "images" : [
     {
-      "filename" : "mo-leaf-cake.jpeg",
+      "filename" : "mo-leaf-cake-1.jpeg",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "mo-leaf-cake@2x.jpeg",
+      "filename" : "mo-leaf-cake-1@2x.jpeg",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "mo-leaf-cake@3x.jpeg",
+      "filename" : "mo-leaf-cake-1@3x.jpeg",
       "idiom" : "universal",
       "scale" : "3x"
     }

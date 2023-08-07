@@ -16,12 +16,9 @@ struct Cake: Identifiable, Codable {
     var isFavorite: Bool
     var description: String
     
-    private var imageName: String
-    var image: Image {
-        Image(imageName)
-    }
+    var imageNames: [String]
     
-    private var coordinates: Coordinates
+    var coordinates: Coordinates
         
     var locationCoordinate: CLLocationCoordinate2D {
         CLLocationCoordinate2D(

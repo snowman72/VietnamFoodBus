@@ -1,17 +1,17 @@
 {
   "images" : [
     {
-      "filename" : "little-cake.jpeg",
+      "filename" : "little-cake-1.jpeg",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "little-cake@2x.jpeg",
+      "filename" : "little-cake-1@2x.jpeg",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "little-cake@3x.jpeg",
+      "filename" : "little-cake-1@3x.jpeg",
       "idiom" : "universal",
       "scale" : "3x"
     }

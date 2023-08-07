@@ -1,17 +1,17 @@
 {
   "images" : [
     {
-      "filename" : "dried-sesame-cake.jpeg",
+      "filename" : "dried-sesame-cake-1.jpeg",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "dried-sesame-cake@2x.jpeg",
+      "filename" : "dried-sesame-cake-1@2x.jpeg",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "dried-sesame-cake@3x.jpeg",
+      "filename" : "dried-sesame-cake-1@3x.jpeg",
       "idiom" : "universal",
       "scale" : "3x"
     }

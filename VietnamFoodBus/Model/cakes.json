@@ -4,35 +4,35 @@
 	"name": "Khau Sli Cake",
 	"region": "Cao Bang",
 	"isFavorite": false,
-	"imageName": "khau-sli-cake-1",
-	"description": "Its peculiar name makes many people curious when they hear it for the first time. The sli is usually shaped like a red brick; the upper layer is shiny brown peanuts, the lower layer is rice crackers. Through many processing stages, the two layers stick together, feel crispy when bitten and taste slightly sweet. The taste of Khau Sli cake is unique and therefore would create an unforgettable impression on tourists once they try it.",
+	"imageNames": ["khau-sli-cake-1", "khau-sli-cake-2", "khau-sli-cake-3", "khau-sli-cake-4"],
+	"description": "Its peculiar name makes many people curious when they hear it for the first time. The sli is usually shaped like a red brick; the upper layer is shiny brown peanuts, the lower layer is rice crackers. Through many processing stages, the two layers stick together, feel crispy when bitten and taste slightly sweet. The taste of Khẩu Sli cake is unique and therefore would create an unforgettable impression on tourists once they try it.",
 	"coordinates": {
 		"latitude": 22.6666369,
 		"longitude": 106.2639852
 		}
 	},
-	{
+    {
     "id": 2,
-	"name": "Mung bean Cake",
-	"region": "Hai Duong",
-	"isFavorite": false,
-	"imageName": "mung-bean-cake-1",
-	"description": "Hai Duong's Mung bean Cake is a highly popular specialty that has travelled to most regions of Vietnam. This dish has a sweet taste, dissolves quickly in the mouth, yet long enough for people to enjoy it sweetness, fat and fragrant scent.",
-	"coordinates": {
-		"latitude": 20.9385958,
-		"longitude": 106.3206861
-		}
-	},
+    "name": "Mung Bean Cake",
+    "region": "Hai Duong",
+    "isFavorite": false,
+    "imageNames": ["mung-bean-cake-1", "mung-bean-cake-2", "mung-bean-cake-3", "mung-bean-cake-4"],
+    "description": "Hai Duong's Mung bean Cake is a highly popular specialty that has travelled to most regions of Vietnam. This dish has a sweet taste, dissolves quickly in the mouth, yet long enough for people to enjoy it sweetness, fat and fragrant scent.",
+    "coordinates": {
+        "latitude": 20.94411178351246,
+        "longitude": 106.34375530633751
+        }
+    },
 	{
     "id": 3,
 	"name": "Ash Cake",
 	"region": "Bac Giang",
-	"isFavorite": false,
-	"imageName": "ash-cake-1",
+	"isFavorite": true,
+	"imageNames": ["ash-cake-1", "ash-cake-2", "ash-cake-3", "ash-cake-4"],
 	"description": "Once the last layer of leaf is peeled, an clear amber-colored cake is revealed. We can even see clearly the little rice that made up this dish. It is usually enjoyed with sugarcane syrup to amplify its scent. Vietnamese people make this traditional cake during the Lunar New Year and the annual insect festival to worship their ancestors.",
 	"coordinates": {
-		"latitude": 21.34012500696182,
-		"longitude": 105.93354827916086
+		"latitude": 21.279953135060087,
+		"longitude": 106.20094982441536
 		}
 	},
 	{
@@ -40,8 +40,8 @@
 	"name": "Cay Cake",
 	"region": "Thai Binh",
 	"isFavorite": false,
-	"imageName": "cay-cake-1",
-	"description": "Cay cake is a type of cake that is made from glutinous rice. It has a very eye-catching color thanks to the red color from gấc fruit and the yellow color from the gardenia fruit . Besides, the sweetness of the cake comes from malt, and its scent derives from sticky rice mixed with sesame, peanuts, coconut jam and grapefruit essential oil. Cay cake is often served at the time of Tet season , alongside with familiar cakes such as sticky rice cake, Dày cake and a tray of five fruits to offer to the ancestors' table.",
+	"imageNames": ["cay-cake-1", "cay-cake-2", "cay-cake-3", "cay-cake-4"],
+	"description": "Cáy cake is a type of cake that is made from glutinous rice. It has a very eye-catching color thanks to the red color from gấc fruit and the yellow color from the gardenia fruit . Besides, the sweetness of the cake comes from malt, and its scent derives from sticky rice mixed with sesame, peanuts, coconut jam and grapefruit essential oil. Cáy cake is often served at the time of Tet season, alongside with familiar cakes such as sticky rice cake, Dày cake and a tray of five fruits to offer to the ancestors' table.",
 	"coordinates": {
 		"latitude": 20.5386936,
 		"longitude": 106.3934777
@@ -52,7 +52,7 @@
 	"name": "Green Rice Cake",
 	"region": "Ha Noi",
 	"isFavorite": false,
-	"imageName": "green-rice-cake-1",
+	"imageNames": ["green-rice-cake-1", "green-rice-cake-2", "green-rice-cake-3", "green-rice-cake-4"],
 	"description": "Hanoi's Green Rice cake is a blend between the plasticity of glutinous rice flour and the smoothness of pureed green beans used as a filling. Both create toughness on the outside of the cake, juicy on the inside. The stage of choosing sticky rice is considered the most important part, deciding the deliciousness of the cake. If the sticky rice is too old or too young, it will cause the nuggets to become mushy, making it difficult to form a crust. The mung beans of the cake are carefully selected from many different regions in the North. During the processing stage, the cook always have to carefully watch the time so that the green rice are not too hard or soaked in sugar. Finally, the cake is marinated with some flavors to create a special aroma.",
 	"coordinates": {
 		"latitude": 21.0031177,
@@ -64,7 +64,7 @@
 	"name": "Ramie Cake",
 	"region": "Nam Dinh",
 	"isFavorite": false,
-	"imageName": "ramie-cake-1",
+	"imageNames": ["ramie-cake-1", "ramie-cake-2", "ramie-cake-3", "ramie-cake-4"],
 	"description": "Ramie cake is a type of sweet cake of Vietnam, it has a long history. Ramie cake is made mainly of glutinous rice flour, so it has a soft, flexible texture. The cake has a fancy glossy black color due to hemp leaf powder. Regarding the filling, ramie cake usually has a sweet and nutty green bean filling. In some places, you can also find ramie cake with coconut as its filling. Gai cake is a kind of sweet cake of Vietnam, the cake has a long history. Gai cake is made mainly of glutinous rice flour, so it has a soft, flexible texture. The cake has a fancy glossy black color due to the appearance of hemp leaf powder in the cake. Like most other traditional cakes, ramie cake is wrapped squarely in banana leaves and tightly fastened with bamboo thread. After the cake is wrapped, it is steamed; the finished product is a hot cake with shiny black color, lightly fragrant with the scent of wild banana leaves.",
 	"coordinates": {
 		"latitude": 20.424979063102974,
@@ -76,7 +76,7 @@
 	"name": "Mango Cake",
 	"region": "Nha Trang",
 	"isFavorite": false,
-	"imageName": "mango-cake-1",
+	"imageNames": ["mango-cake-1", "mango-cake-2", "mango-cake-3", "mango-cake-4"],
 	"description": "Mango rice paper is a fairly famous specialty dish of Cam Lam district and some neighboring areas of Khanh Hoa province. The cake is made mainly from ripe mango fruit and malt. Mango rice paper, also known as Nha Trang mango cake because most of the products are consumed in Nha Trang city.",
 	"coordinates": {
 		"latitude": 12.2529152,
@@ -85,10 +85,10 @@
 	},
 	{
     "id": 8,
-	"name": "Dried sesame Cake",
+	"name": "Dried Sesame Cake",
 	"region": "Quang Nam",
 	"isFavorite": false,
-	"imageName": "dried-sesame-cake-1",
+	"imageNames": ["dried-sesame-cake-1", "dried-sesame-cake-2", "dried-sesame-cake-3", "dried-sesame-cake-4"],
 	"description": "Dried sesame cake is made from rice flour, glutinous rice, sesame, sugar, crushed fresh ginger, cinnamon powder to create fragrance. Rice must be high-quality, glutinous rice must be fragrant, already soaked in water for an hour for softening. Then they are washed, let dry, and ground in the mill to become a fine powder. Slightly wet the flour with water to create moisture, so that when pouring the dough into the cake mold, it has a sticky consistency. Making a dried sesame cake requires many steps. In the past, dried sesame cake was also known as seven-fire cake , because the production process included going through the fire 7 times, but today the making has been improved to be simpler. For Quang Nam - Da Nang, dried sesame cake is an indispensable product for every family, especially on festive occasions, Lunar New Year, filial piety and memorial of the ancestors.",
 	"coordinates": {
 		"latitude": 15.5393538,
@@ -100,7 +100,7 @@
 	"name": "Tapioca Layer Cake",
 	"region": "Hoi An",
 	"isFavorite": false,
-	"imageName": "tapioca-layer-cake-1",
+	"imageNames": ["tapioca-layer-cake-1", "tapioca-layer-cake-2", "tapioca-layer-cake-3", "tapioca-layer-cake-4"],
 	"description": "This traditional Vietnamese dessert consists of chewy layers that are typically made with puréed mung beans, tapioca starch, rice flour, and coconut milk or water. Traditionally, each cake has a pale yellow layer made with mung beans and a green layer that is flavored and colored with pandan leaves, while optional ingredients include durian or taro. Once steamed and chilled, the cake is usually cut into diamond shapes.",
 	"coordinates": {
 		"latitude": 15.8800584,
@@ -112,35 +112,35 @@
 	"name": "Honeycomb Cake",
 	"region": "Sai Gon",
 	"isFavorite": true,
-	"imageName": "honeycomb-cake-1",
+	"imageNames": ["honeycomb-cake-1", "honeycomb-cake-2", "honeycomb-cake-3", "honeycomb-cake-4"],
 	"description": "Honeycomb cake is a type of sponge cake made with rice flour, water, sugar and yeast. Its surface has a lot of small holes due to air outlet while baking. The image of a food cart that sells coconut and honeycomb cake has become a familiar image in the eye of Sai Gon citizen. The sellers often push the cart across different streets from morning until late afternoon",
 	"coordinates": {
 		"latitude": 10.796250857439881,
 		"longitude": 106.68310917206192
 		}
 	},
-	{
+    {
     "id": 11,
-	"name": "Pia Cake",
-	"region": "Soc Trang",
-	"isFavorite": true,
-	"imageName": "pia-cake-1",
-	"description": "Pia cake is a multi-layer pastry with filling. It is often made from flour kneaded with pork fat. This cake actually originates from the mooncake of Teochew people, who migrated to Vietnam in the 17th century. Usually, pía cakes is completely handmade and for family use only. Pía cake bakeries are often concentrated in Phu Tam commune, Chau Thanh district, Soc Trang province. Originally, this cake has mung bean as its filling; however, as time goes, today people are also using durian, taro and salted egg york.",
-	"coordinates": {
-		"latitude": 9.641450999014191,
-		"longitude": 105.94711654817633
-		}
-	},
+    "name": "Pia Cake",
+    "region": "Soc Trang",
+    "isFavorite": true,
+    "imageNames": ["pia-cake-1", "pia-cake-2", "pia-cake-3", "pia-cake-4"],
+    "description": "Pía cake is a multi-layer pastry with filling. It is often made from flour kneaded with pork fat. This cake actually originates from the mooncake of Teochew people, who migrated to Vietnam in the 17th century. Usually, pía cakes is completely handmade and for family use only. Pía cake bakeries are often concentrated in Phu Tam commune, Chau Thanh district, Soc Trang province. Originally, this cake has mung bean as its filling; however, as time goes, today people are also using durian, taro and salted egg york.",
+    "coordinates": {
+        "latitude": 9.603120064867309,
+        "longitude": 105.97225105404577
+        }
+    },
 	{
     "id": 12,
 	"name": "Little Cake",
 	"region": "Binh Dinh",
 	"isFavorite": false,
-	"imageName": "little-cake-1",
+	"imageNames": ["little-cake-1", "little-cake-2", "little-cake-3", "little-cake-4"],
 	"description": "To be considered delicious, a little cake need to have a plastic texture, not stick to teeth when bitten, have the fresh aroma of ramie leaf and glutious rice, sweetness of sugar, fat of oil and softness of blended beans. This cake is the specialty dish of Binh Dinh, later spread to other regions of Vietnam and become popular in the Central Region cuisine.",
 	"coordinates": {
-		"latitude": 13.722572406339694,
-		"longitude": 109.12606324880969
+		"latitude": 14.063835502347228,
+		"longitude": 109.00400318191258
 		}
 	},
 	{
@@ -148,8 +148,8 @@
     "name": "Re Cake",
 	"region": "Phan Thiet",
 	"isFavorite": false,
-	"imageName": "re-cake-1",
-	"description": "Re cake is a long-standing specialty cake in Phan Thiet. The cake has a delicious, crispy taste, so many visitors buy it along the way as a gift for relatives and friends. The main ingredients for making this cakes are sweet potatoes, sugar and malt. To make delicious cakes requires a lot of handiness of the baker. There are two main types of this cake: red and yellow. Red cake is made from Duong Ngoc sweet potato, so it has a higher price. Yellow rice cake is made from tapioca or sweet potato, so its price is much cheaper than red cake.",
+	"imageNames": ["re-cake-1", "re-cake-2", "re-cake-3", "re-cake-4"],
+	"description": "Rế cake is a long-standing specialty cake in Phan Thiet. The cake has a delicious, crispy taste, so many visitors buy it along the way as a gift for relatives and friends. The main ingredients for making this cakes are sweet potatoes, sugar and malt. To make delicious cakes requires a lot of handiness of the baker. There are two main types of this cake: red and yellow. Red cake is made from Duong Ngoc sweet potato, so it has a higher price. Yellow rice cake is made from tapioca or sweet potato, so its price is much cheaper than red cake.",
 	"coordinates": {
 		"latitude": 10.9300676,
 		"longitude": 108.1040900
@@ -160,7 +160,7 @@
 	"name": "Fat Cake",
 	"region": "Southeast Region",
 	"isFavorite": true,
-	"imageName": "fat-cake-1",
+	"imageNames": ["fat-cake-1", "fat-cake-2", "fat-cake-3", "fat-cake-4"],
 	"description": "Fat cake is one of the traditional cakes containing the quintessence of national culinary culture . This is an indispensable cake to worship ancestors on the Day of the Dragon Boat Festival as well as Vietnamese parties in general because of its chewy crust and fatty taste, melting quickly in the mouth. According to folklore, this cake is sweet and can cool body internally, so it is suitable for children or family members who are having a fever.",
 	"coordinates": {
 		"latitude": 11.2136337,
@@ -169,14 +169,14 @@
 	},
 	{
     "id": 15,
-	"name": "Mo leaf Cake",
+	"name": "Mo Leaf Cake",
 	"region": "Mekong River Delta",
 	"isFavorite": false,
-	"imageName": "mo-leaf-cake-1",
-	"description": "Mo leaf cake is a traditional cake of people living in the Mekong River Delta. It consists of three main ingredients: rice flour, coconut milk and mo leaf. Traditionally, Mo leaf Cake has a clear dark green color, long and flat in shape. Moreover, we can also shape the dough into flat round pieces or short curly strands like pasta and then steam it. When eat, people would pour coconut milk on top of it and also roasted peanuts at times. Mo Leaf Cake is chewy and crispy, fragrant, fatty and sweet.",
+	"imageNames": ["mo-leaf-cake-1", "mo-leaf-cake-2", "mo-leaf-cake-3", "mo-leaf-cake-4"],
+	"description": "Mơ leaf cake is a traditional cake of people living in the Mekong River Delta. It consists of three main ingredients: rice flour, coconut milk and mơ leaf. Traditionally, Mơ leaf Cake has a clear dark green color, long and flat in shape. Moreover, we can also shape the dough into flat round pieces or short curly strands like pasta and then steam it. When eat, people would pour coconut milk on top of it and also roasted peanuts at times. Mơ Leaf Cake is chewy and crispy, fragrant, fatty and sweet.",
 	"coordinates": {
-		"latitude": 9.491512932994413,
-		"longitude": 104.96013122591803
+		"latitude": 10.41066539202971, 
+		"longitude": 105.43125886723554
 		}
 	}
 ]
