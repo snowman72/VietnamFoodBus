@@ -35,7 +35,7 @@
 <kbd>
   <img src="https://github.com/snowman72/VietnamFoodBus/assets/116778424/019180ed-4f56-4334-a48f-7e9cea97acd1" width= "300" />
 </kbd>
-&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <kbd>
   <img src="https://github.com/snowman72/VietnamFoodBus/assets/116778424/c83c33f4-2055-496c-92d6-7600b7110592" width= "300" />
 </kbd>
