@@ -2,7 +2,7 @@
 
 - Language: English (EN)
 - Swift + SwiftUI
-- Introduces some of Vietnamese traditional cakes/ famous cakes of different regions
+- Introduces some traditional cakes of different Vietnamese regions
 
 ## Static App Previews
 ### 👋 Welcome Screen
