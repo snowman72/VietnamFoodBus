@@ -45,7 +45,8 @@
 </kbd>
 <hr>
 
-### Cake Detail View, with map, center image, horizontal extra images scrolling, cake name, province name and cake description
+### 🍰 Cake Detail View
+With map, center image, horizontal extra images scrolling, cake name, province name and cake description.
 <kbd>
 <img src="https://github.com/snowman72/VietnamFoodBus/assets/116778424/7998eec8-11b3-4bc7-9d6b-a3ae58a12f54" width= "300" />
 </kbd>
