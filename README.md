@@ -43,3 +43,14 @@
 <kbd>
   <img src="https://github.com/snowman72/VietnamFoodBus/assets/116778424/fec1eb3a-c650-4e62-b5f9-b1a81b9ff96e" width= "300" />
 </kbd>
+<hr>
+
+### Cake Detail View, with map, center image, horizontal extra images scrolling, cake name, province name and cake description
+<kbd>
+<img src="https://github.com/snowman72/VietnamFoodBus/assets/116778424/7998eec8-11b3-4bc7-9d6b-a3ae58a12f54" width= "300" />
+</kbd>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<kbd>
+<img src="https://github.com/snowman72/VietnamFoodBus/assets/116778424/96899f81-e21b-4b40-9f98-0dc7bee3dec4" width= "300" />
+</kbd>
+
