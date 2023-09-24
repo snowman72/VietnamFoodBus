@@ -3,6 +3,7 @@
 - Language: English (EN)
 - Swift + SwiftUI
 - Introduces some traditional cakes of different Vietnamese regions
+- The cakes represented in this app reflect the interest of the app owner (me), therefore some of them have a star, which indicates that they are my favorites
 
 ## Static App Previews
 ### 👋 Welcome Screen
